@@ -17,7 +17,7 @@ SkyCast is a lightweight and responsive weather web app that lets users search f
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript
-- **API:** [OpenWeatherMap API](https://openweathermap.org/api) (or whichever you used)
+- **API:** [OpenWeatherMap API](https://openweathermap.org/api)
 
 ---
 
